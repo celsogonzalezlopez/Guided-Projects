@@ -1,5 +1,4 @@
-# Guided-Projects
-some guided excel projects I've completed to practice
+# Practicing:
 
 • Pivot Charts
 
